@@ -7,9 +7,9 @@ You can take help:)
 
 commands:
 
-  node main.js help
+    node main.js help
   
-  node main.js organize diractoryPath
+    node main.js organize diractoryPath
   
-  node main.js tree directoryPath
+    node main.js tree directoryPath
   
